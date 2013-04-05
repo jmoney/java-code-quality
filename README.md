@@ -26,7 +26,7 @@ Add the following to your pom.xml after downloading the git repo and running 'ma
          <dependency>
              <groupId>org.codequality</groupId>
              <artifactId>java-code-quality</artifactId>
-             <version>1.0-SNAPSHOT</version>
+             <version>1.1-SNAPSHOT</version>
          </dependency>
      </dependencies>
 </plugin>
