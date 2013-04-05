@@ -1,6 +1,6 @@
 java-coding-style
 =================
-Add the following to your pom.xml
+Add the following to your pom.xml after downloading the git repo and running 'maven install'.
 
 ```xml
 <plugin>
