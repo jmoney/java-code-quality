@@ -1,2 +1,2 @@
-java-code-quality
+java-coding-style
 =================
